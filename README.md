@@ -1,2 +1,2 @@
-# Stat_Phys
+# Metropolis a
 Metropolis algorith in the Ising Model
